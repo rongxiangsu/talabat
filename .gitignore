@@ -1,0 +1,6 @@
+AutogluonModels/
+catboost_info/
+data/
+output/
+logs/
+.ipynb_checkpoints/
